@@ -1,4 +1,4 @@
-# grbt-rb
+# gbrt-rb
 A GRBT based approach to predict SHFE RB future contract's return 
 
 # backtest results
